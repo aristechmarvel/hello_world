@@ -1,3 +1,2 @@
 # hello_world
-My first project
-Testing the platform
+Fast growing Data Scientist with passion for AI
